@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rat in maze", "rat in maze\rat in maze.vcxproj", "{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Debug|x64.ActiveCfg = Debug|x64
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Debug|x64.Build.0 = Debug|x64
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Debug|x86.Build.0 = Debug|Win32
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Release|x64.ActiveCfg = Release|x64
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Release|x64.Build.0 = Release|x64
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Release|x86.ActiveCfg = Release|Win32
+		{9BEF984C-8CD4-49FD-8E89-9BC91743EA6D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91EAF2F0-5131-4C83-B000-3B1A72CAD77B}
+	EndGlobalSection
+EndGlobal
